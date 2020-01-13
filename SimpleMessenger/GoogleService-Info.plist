@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951496013977-0krqmc0ibt9d39kbodv7rvss63ou4krb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951496013977-0krqmc0ibt9d39kbodv7rvss63ou4krb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCavyTG3rhB-ltu5tvDjVqtQejonlk_EXw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951496013977</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.princetechn0.SimpleMessenger</string>
+	<key>PROJECT_ID</key>
+	<string>simplemessenger-3b95a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simplemessenger-3b95a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951496013977:ios:affeb571f038c5d2016008</string>
+	<key>DATABASE_URL</key>
+	<string>https://simplemessenger-3b95a.firebaseio.com</string>
+</dict>
+</plist>
